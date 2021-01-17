@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551924797048",
+    "project_id": "quarterpillars-6cd1c",
+    "storage_bucket": "quarterpillars-6cd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551924797048:android:ac89dd98e8c3e0fecd278d",
+        "android_client_info": {
+          "package_name": "com.netsurf.quarterpillars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551924797048-hp8o816s0la7l9pi6dtvgkc991fh6cdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccE8Pt1FyAEQKr2XIg4cFoXJ9js3n7Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551924797048-hp8o816s0la7l9pi6dtvgkc991fh6cdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quarterpillars</string>
+    <string name="quarterpillars">Quarterpillars</string>
+    <string name="welcome_to_quarterpillars">Welcome to\nQuarterpillars!</string>
+    <string name="let_us_quickly_get_you_started">Let us quickly get you started.</string>
+    <string name="aggrement">By signing Up via Email/Google/Facebook you agree\n to Quarterpillar\'s Terms of use and Privacy Policy</string>
+    <string name="signup">Don\'t Have Account?\nCreate new</string>
+    <string name="valid_email">Please enter valid email</string>
+    <string name="valid_password">Please enter password</string>
+    <string name="let_s_create_an_account">Let\'s create an account</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="enter_name">Please enter name</string>
+    <string name="enter_mobile">Please enter valid mobile number</string>
+</resources>
